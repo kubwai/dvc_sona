@@ -1,0 +1,7 @@
+[core]
+    remote = ssh_data
+['remote "ssh_data"']
+    url = ssh://116.47.188.227/home/sona/dvc_data
+    user = sona
+    port = 10023
+    keyfile = id_ed25519
